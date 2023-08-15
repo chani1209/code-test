@@ -2,7 +2,7 @@
 
 ## Problem
 ### [백준](https://www.acmicpc.net/)
-
+- [9012](https://github.com/chani1209/code-test/blob/main/9012/main.py)
 
 
 
