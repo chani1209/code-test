@@ -1,7 +1,9 @@
 # Code Test
 
 ## Documentation
-- []()
+- [Data-Structure](https://github.com/chani1209/code-test/blob/main/docs/ds.md)
+- [code-test](https://github.com/chani1209/code-test/blob/main/docs/code-test.md)
+- [regex](https://github.com/chani1209/code-test/blob/main/docs/regex.md)
 
 <br/>
 
